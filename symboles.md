@@ -11,8 +11,8 @@
 
 |USAGE(S)|NOTATION|EXEMPLE|
 |:--:|:--:|:--|
-|**Existence**|∃|∃x ▶ _il existe un élément x_|
-|**Universalité**|∀|∀x ▶ _pour tout x_|
+|**Existence**|∃<br>¬∃|∃x P(x)▶ _il existe au moins un x tel que P(x)_<br>¬∃ ▶ _pour tout x non P(x)_|
+|**Universalité**|∀<br>¬∀|∀x P(x) ▶ _pour tout x P(x)_<br>¬∀ ▶ _il existe au moins un x tel que non P(x)_|
 
 ## Représentations
 
