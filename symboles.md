@@ -11,7 +11,7 @@
 
 |NOTATION|NOM|
 |:--:|:--:|
-|∅|Ensemble vide|
+|∅ ou { }|Ensemble vide|
 |π|Pi|
 
 ## Délimiteurs
