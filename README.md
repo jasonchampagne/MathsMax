@@ -1,6 +1,6 @@
 # MathsMax
 
-![](https://nsa40.casimages.com/img/2021/01/23/210123055118515582.jpg)
+![](https://nsa40.casimages.com/img/2021/01/23/210123055211418535.jpg)
 
 Passionné par les mathématiques mais ayant éprouvé beaucoup de lacunes durant ma scolarité (_excepté en application à l'informatique_), j'ai décidé de ré-apprendre les mathématiques, par leurs fondements et leurs origines, pour acquérir quelques compétences et connaissances qu'il me manque à ce jour.
 
