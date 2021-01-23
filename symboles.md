@@ -9,10 +9,10 @@
 
 ## Représentations
 
-|NOM|NOTATION|
+|NOTATION|NOM|
 |:--:|:--:|
-|**Ensemble vide**|∅|
-|**Pi**|π|
+|∅|Ensemble vide|
+|π|Pi|
 
 ## Délimiteurs
 
