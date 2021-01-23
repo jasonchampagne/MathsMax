@@ -17,4 +17,5 @@ Cet apprentissage se fait en grande partie en direct sur Twitch, pour profiter √
 + [Lexique](https://github.com/jasonchampagne/MathsMax/blob/main/lexique.md)
 + [Lives sur Twitch](https://github.com/jasonchampagne/MathsMax/blob/main/lives-twitch.md)
 + [Personnalit√©s](https://github.com/jasonchampagne/MathsMax/blob/main/personnalites.md)
++ [Ressources](https://github.com/jasonchampagne/MathsMax/blob/main/ressources.md)
 + [Symboles](https://github.com/jasonchampagne/MathsMax/blob/main/symboles.md)
