@@ -6,7 +6,7 @@ L'idée première n'est pas de suivre une progression comme cela peut être fait
 
 ![](https://nsa40.casimages.com/img/2021/01/23/210123055211418535.jpg)
 
-> **Il est bien de savoir que 1 + 1 = 2, mais bien mieux d'expliquer pourquoi !**
+> **Il est bien de savoir que 1 + 1 = 2, mais plus intéressant de savoir pourquoi !**
 
 Cet apprentissage se fait en grande partie en direct sur Twitch, pour profiter à d'autres personnes qui souhaitent comme moi se (re)mettre aux mathématiques et découvrir une autre manière de les étudier.
 
