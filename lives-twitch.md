@@ -1,5 +1,7 @@
 # Lives sur Twitch
 
+> Diffusés le vendredi soir (pas toutes les semaines, voir [planning](https://jasonchampagne.fr/planning))
+
 + [0. Préparation](https://www.twitch.tv/videos/794257161)
 + [1. L'os d'Ishango](https://www.twitch.tv/videos/801994138)
 + [2. Naissance du kraken](https://www.twitch.tv/videos/809879813)
