@@ -10,7 +10,7 @@
 ## Représentations
 
 |NOM|NOTATION|
-|:--:|:--|
+|:--:|:--:|
 |**Ensemble vide**|∅|
 |**Pi**|π|
 
