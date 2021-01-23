@@ -12,6 +12,8 @@ Cet apprentissage se fait en grande partie en direct sur Twitch, pour profiter �
 
 ## Index
 
+> _Un **ebook** sera disponible prochainement et mis à jour au fur et à mesure_
+
 + [Lexique](https://github.com/jasonchampagne/MathsMax/blob/main/lexique.md)
 + [Lives sur Twitch](https://github.com/jasonchampagne/MathsMax/blob/main/lives-twitch.md)
 + [Symboles](https://github.com/jasonchampagne/MathsMax/blob/main/symboles.md)
