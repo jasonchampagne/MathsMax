@@ -7,3 +7,7 @@ L'idée première n'est pas de suivre une progression comme cela peut être fait
 > **Il est bien de savoir que 1 + 1 = 2, mais bien mieux d'expliquer pourquoi !**
 
 Cet apprentissage se fait en grande partie en direct sur Twitch, pour profiter à d'autres personnes qui souhaitent comme moi se (re)mettre aux mathématiques et découvrir une autre manière de les étudier.
+
+## Index
+
++ [Lives sur Twitch](#)
