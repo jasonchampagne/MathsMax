@@ -13,5 +13,6 @@
 |NOTATION|EXEMPLE|
 |:--:|:--|
 |{ et }|E = {∅, 1, 2, 3} ▶ _délimite les éléments de l'ensemble E_|
+|( et )|3 x (4 + 5) ▶ _délimite une priorité opératoire_|
 
 > _Source : [Wikipédia](https://fr.wikipedia.org/wiki/Table_de_symboles_math%C3%A9matiques)_
