@@ -11,6 +11,7 @@
 
 |NOTATION|NOM|
 |:--:|:--:|
+|Δ ou δ|Delta|
 |∅ ou { }|Ensemble vide|
 |Ε ou ε|Epsilon|
 |π|Pi|
