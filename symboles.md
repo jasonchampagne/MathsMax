@@ -12,6 +12,6 @@
 
 |NOTATION|EXEMPLE|
 |:--:|:--|
-|{ et }|E = {∅, 1, 2, 3} : _délimite les éléments de l'ensemble E_|
+|{ et }|E = {∅, 1, 2, 3} ➡ _délimite les éléments de l'ensemble E_|
 
 > _Source : [Wikipédia](https://fr.wikipedia.org/wiki/Table_de_symboles_math%C3%A9matiques)_
