@@ -1,6 +1,6 @@
 # Symboles
 
-|NOM|NOTATION|EXEMPLE|
+|USAGE(S)|NOTATION|EXEMPLE|
 |:--:|:--:|:--|
 |**Addition**|+|a + b (_a plus b_)|
 |**Appartenance**|∈<br>∉|x ∈ A (_x appartient à A_)<br>x ∉ A (_x n'appartient pas à A_)|
