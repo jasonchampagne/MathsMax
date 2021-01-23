@@ -12,6 +12,7 @@
 |NOTATION|NOM|
 |:--:|:--:|
 |∅ ou { }|Ensemble vide|
+|Ε ou ε|Epsilon|
 |π|Pi|
 
 ## Délimiteurs
