@@ -12,4 +12,5 @@ Cet apprentissage se fait en grande partie en direct sur Twitch, pour profiter Ã
 
 ## Index
 
++ [Lexique]()
 + [Lives sur Twitch](https://github.com/jasonchampagne/MathsMax/blob/main/lives-twitch.md)
