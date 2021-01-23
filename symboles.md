@@ -13,6 +13,6 @@
 |NOTATION|EXEMPLE|
 |:--:|:--|
 |{ et }|E = {1, 2, 3} ▶ _délimite les éléments de l'ensemble E_|
-|( et )|3 x (4 + 5) ▶ _délimite une priorité opératoire_<br>(1 1) ▶ _délimite une matrice_|
+|( et )|3 x (4 + 5) ▶ _délimite une priorité opératoire_<br>(1 1) ▶ _délimite une matrice_<br>f(x) ▶ _argument d'une fonction_|
 
 > _Source : [Wikipédia](https://fr.wikipedia.org/wiki/Table_de_symboles_math%C3%A9matiques)_
