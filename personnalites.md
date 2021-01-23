@@ -1,9 +1,9 @@
 # Personnalités
 
-|IDENTITÉ|THÈME(S)|
+|IDENTITÉ|DISTINCTIONS|
 |:--:|:--|
-|[**Abraham A. Fraenkel**](https://fr.wikipedia.org/wiki/Abraham_Adolf_Fraenkel)|Théorie des nombres, théorie des ensembles|
+|[**Abraham A. Fraenkel**](https://fr.wikipedia.org/wiki/Abraham_Adolf_Fraenkel)||
 |[**Ernst Kummer**](https://fr.wikipedia.org/wiki/Ernst_Kummer)||
-|[**Ernst Zermelo**](https://fr.wikipedia.org/wiki/Ernst_Zermelo)|Logique mathématique, théorie des ensembles|
-|[**Giuseppe Peano**](https://fr.wikipedia.org/wiki/Giuseppe_Peano)|Logique mathématique, méthamathématique, théorie axiomatique|
+|[**Ernst Zermelo**](https://fr.wikipedia.org/wiki/Ernst_Zermelo)||
+|[**Giuseppe Peano**](https://fr.wikipedia.org/wiki/Giuseppe_Peano)||
 |[**Richard Dedekind**](https://fr.wikipedia.org/wiki/Richard_Dedekind)||
