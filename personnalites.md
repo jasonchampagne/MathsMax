@@ -3,6 +3,7 @@
 |IDENTITÉ|DISTINCTIONS|
 |:--:|:--|
 |[**Abraham A. Fraenkel**](https://fr.wikipedia.org/wiki/Abraham_Adolf_Fraenkel)||
+|[**Bertrand Russell**](https://fr.wikipedia.org/wiki/Bertrand_Russell)||
 |[**Carl Friedrich Gauss**](https://fr.wikipedia.org/wiki/Carl_Friedrich_Gauss)||
 |[**Ernst Kummer**](https://fr.wikipedia.org/wiki/Ernst_Kummer)||
 |[**Ernst Zermelo**](https://fr.wikipedia.org/wiki/Ernst_Zermelo)||
