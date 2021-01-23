@@ -11,8 +11,8 @@
 
 |USAGE(S)|NOTATION|EXEMPLE|
 |:--:|:--:|:--|
-|**Existence**|∃<br>¬∃|∃x P(x)▶ _il existe au moins un x tel que P(x)_<br>¬∃ P(x) ▶ _pour tout x non P(x)_|
-|**Universalité**|∀<br>¬∀|∀x P(x) ▶ _pour tout x P(x)_<br>¬∀ P(x) ▶ _il existe au moins un x tel que non P(x)_|
+|**Existence**|∃<br>¬∃|∃x P(x)▶ _il existe au moins un x tel que P(x)_<br>¬∃x P(x) ▶ _pour tout x non P(x)_|
+|**Universalité**|∀<br>¬∀|∀x P(x) ▶ _pour tout x P(x)_<br>¬∀x P(x) ▶ _il existe au moins un x tel que non P(x)_|
 
 ## Représentations
 
