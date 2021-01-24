@@ -3,7 +3,7 @@
 |IDENTITÉ|RÉFÉRENCES MATHÉMATIQUES|
 |:--|:--|
 |[**Abraham A. Fraenkel**](https://fr.wikipedia.org/wiki/Abraham_Adolf_Fraenkel)||
-|[**Bertrand Russell**](https://fr.wikipedia.org/wiki/Bertrand_Russell)|paradoxe de Russell|
+|[**Bertrand Russell**](https://fr.wikipedia.org/wiki/Bertrand_Russell)|logique contemporaine, paradoxe de Russell|
 |[**Carl Friedrich Gauss**](https://fr.wikipedia.org/wiki/Carl_Friedrich_Gauss)||
 |[**Ernst Kummer**](https://fr.wikipedia.org/wiki/Ernst_Kummer)||
 |[**Ernst Zermelo**](https://fr.wikipedia.org/wiki/Ernst_Zermelo)||
