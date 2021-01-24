@@ -11,7 +11,7 @@
 |[**Euclide**](https://fr.wikipedia.org/wiki/Euclide)||
 |[**Georg Cantor**](https://fr.wikipedia.org/wiki/Georg_Cantor)|argument de la diagonale, théorème de Cantor, théorie des ensembles|
 |[**Giuseppe Peano**](https://fr.wikipedia.org/wiki/Giuseppe_Peano)||
-|[**Gottlob Frege**](https://fr.wikipedia.org/wiki/Gottlob_Frege)|logique contemporaine|
+|[**Gottlob Frege**](https://fr.wikipedia.org/wiki/Gottlob_Frege)|calcul des prédicats du premier ordre, logique contemporaine|
 |[**Pythagore**](https://fr.wikipedia.org/wiki/Pythagore)|nombre d'or, théorème de Pythagore|
 |[**Richard Dedekind**](https://fr.wikipedia.org/wiki/Richard_Dedekind)||
 |[**Thalès**](https://fr.wikipedia.org/wiki/Thal%C3%A8s)|théorème de Thalès|
