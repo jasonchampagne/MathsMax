@@ -1,7 +1,7 @@
 # Personnalités
 
 |IDENTITÉ|THÈMES DE RÉFÉRENCE|
-|:--:|:--|
+|:--|:--|
 |[**Abraham A. Fraenkel**](https://fr.wikipedia.org/wiki/Abraham_Adolf_Fraenkel)||
 |[**Bertrand Russell**](https://fr.wikipedia.org/wiki/Bertrand_Russell)||
 |[**Carl Friedrich Gauss**](https://fr.wikipedia.org/wiki/Carl_Friedrich_Gauss)||
