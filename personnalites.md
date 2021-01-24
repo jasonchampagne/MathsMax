@@ -8,6 +8,7 @@
 |[**Carl Friedrich Gauss**](https://fr.wikipedia.org/wiki/Carl_Friedrich_Gauss)||
 |[**David Hilbert**](https://fr.wikipedia.org/wiki/David_Hilbert)||
 |[**Ernst Kummer**](https://fr.wikipedia.org/wiki/Ernst_Kummer)||
+|[**Ernst Schröder**](https://fr.wikipedia.org/wiki/Ernst_Schr%C3%B6der)||
 |[**Ernst Zermelo**](https://fr.wikipedia.org/wiki/Ernst_Zermelo)||
 |[**Étienne Bézout**](https://fr.wikipedia.org/wiki/%C3%89tienne_B%C3%A9zout)||
 |[**Euclide**](https://fr.wikipedia.org/wiki/Euclide)||
