@@ -3,6 +3,7 @@
 |IDENTITÉ|RÉFÉRENCES MATHÉMATIQUES|
 |:--|:--|
 |[**Abraham A. Fraenkel**](https://fr.wikipedia.org/wiki/Abraham_Adolf_Fraenkel)||
+|[**Alfred North Whitehead**](https://fr.wikipedia.org/wiki/Alfred_North_Whitehead)|logique mathématique|
 |[**Bertrand Russell**](https://fr.wikipedia.org/wiki/Bertrand_Russell)|logique contemporaine, paradoxe de Russell|
 |[**Carl Friedrich Gauss**](https://fr.wikipedia.org/wiki/Carl_Friedrich_Gauss)||
 |[**Ernst Kummer**](https://fr.wikipedia.org/wiki/Ernst_Kummer)||
