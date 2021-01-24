@@ -1,6 +1,6 @@
 # Personnalités
 
-|IDENTITÉ|DISTINCTIONS|
+|IDENTITÉ|THÈMES DE RÉFÉRENCE|
 |:--:|:--|
 |[**Abraham A. Fraenkel**](https://fr.wikipedia.org/wiki/Abraham_Adolf_Fraenkel)||
 |[**Bertrand Russell**](https://fr.wikipedia.org/wiki/Bertrand_Russell)||
