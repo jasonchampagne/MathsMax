@@ -12,4 +12,4 @@
 |[**Giuseppe Peano**](https://fr.wikipedia.org/wiki/Giuseppe_Peano)||
 |[**Pythagore**](https://fr.wikipedia.org/wiki/Pythagore)||
 |[**Richard Dedekind**](https://fr.wikipedia.org/wiki/Richard_Dedekind)||
-|[**Thalès**](https://fr.wikipedia.org/wiki/Thal%C3%A8s)||
+|[**Thalès**](https://fr.wikipedia.org/wiki/Thal%C3%A8s)|théorème de Thalès|
