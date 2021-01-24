@@ -9,6 +9,7 @@
 |[**Ernst Zermelo**](https://fr.wikipedia.org/wiki/Ernst_Zermelo)||
 |[**Étienne Bézout**](https://fr.wikipedia.org/wiki/%C3%89tienne_B%C3%A9zout)||
 |[**Euclide**](https://fr.wikipedia.org/wiki/Euclide)||
+|[**Georg Cantor**](https://fr.wikipedia.org/wiki/Georg_Cantor)|argument de la diagonale, théorème de Cantor, théorie des ensembles|
 |[**Giuseppe Peano**](https://fr.wikipedia.org/wiki/Giuseppe_Peano)||
 |[**Pythagore**](https://fr.wikipedia.org/wiki/Pythagore)|nombre d'or, théorème de Pythagore|
 |[**Richard Dedekind**](https://fr.wikipedia.org/wiki/Richard_Dedekind)||
