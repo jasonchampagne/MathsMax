@@ -1,6 +1,6 @@
 # Personnalités
 
-|IDENTITÉ|RÉFÉRENCES MATHÉMATIQUES|
+|IDENTITÉ|QUELQUES RÉFÉRENCES...|
 |:--|:--|
 |[**Abraham A. Fraenkel**](https://fr.wikipedia.org/wiki/Abraham_Adolf_Fraenkel)||
 |[**Albert Einstein**](https://fr.wikipedia.org/wiki/Albert_Einstein)||
