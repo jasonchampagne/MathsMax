@@ -17,6 +17,7 @@
 |[**George Boole**](https://fr.wikipedia.org/wiki/George_Boole)||
 |[**Giuseppe Peano**](https://fr.wikipedia.org/wiki/Giuseppe_Peano)||
 |[**Gottlob Frege**](https://fr.wikipedia.org/wiki/Gottlob_Frege)|logique contemporaine, logique des prédicats axiomatique|
+|[**Isaac Newton**](https://fr.wikipedia.org/wiki/Isaac_Newton)|gravitation universelle, lois universelles du mouvement|
 |[**John von Neumann**](https://fr.wikipedia.org/wiki/John_von_Neumann)||
 |[**John Wilson**](https://fr.wikipedia.org/wiki/John_Wilson_(math%C3%A9maticien))||
 |[**Leonhard Euler**](https://fr.wikipedia.org/wiki/Leonhard_Euler)|calcul infinitésimal, dynamique des fluides, fonction mathématique, théorie des graphes|
