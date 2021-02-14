@@ -19,6 +19,7 @@
 |[**Gottlob Frege**](https://fr.wikipedia.org/wiki/Gottlob_Frege)|logique contemporaine, logique des prédicats axiomatique|
 |[**John von Neumann**](https://fr.wikipedia.org/wiki/John_von_Neumann)||
 |[**John Wilson**](https://fr.wikipedia.org/wiki/John_Wilson_(math%C3%A9maticien))||
+|[**Leonhard Euler**](https://fr.wikipedia.org/wiki/Leonhard_Euler)|calcul infinitésimal, dynamique des fluides, fonction mathématique, théorie des graphes|
 |[**Pierre de Fermat**](https://fr.wikipedia.org/wiki/Pierre_de_Fermat)||
 |[**Pythagore**](https://fr.wikipedia.org/wiki/Pythagore)|nombre d'or, théorème de Pythagore|
 |[**Richard Dedekind**](https://fr.wikipedia.org/wiki/Richard_Dedekind)||
