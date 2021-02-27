@@ -1,6 +1,6 @@
 # Lexique
 
-|NOM|DÉFINITION|
-|:--|:--|
-|**Axiome**|Proposition évidente et indémontrable|
-|**Proposition**|Énoncé qui est soit vrai, soit faux|
+|NOM|DÉFINITION|EXEMPLE|
+|:--|:--|:--|
+|**Axiome**|Proposition évidente et non démontrable||
+|**Proposition**|Énoncé qui est soit vrai, soit faux||
