@@ -13,5 +13,3 @@
 |**Terme**|Expression de base du calcul des prédicats, de l'algèbre, notamment de l'algèbre universelle, et du calcul formel, des systèmes de réécriture et de l'unification. C'est l'objet produit par une analyse syntaxique. Sa principale caractéristique est d'être homogène et de décrire l'agencement des opérations de base|
 |**Théorème**|Assertion qui est démontrée, c'est-à-dire établie comme vraie à partir d'autres assertions déjà démontrées (théorèmes ou autres formes d'assertions) ou des assertions acceptées comme vraies, appelées axiomes|
 |**Théorie**|Ensemble cohérent d'explications, de notions ou d'idées sur un sujet précis, pouvant inclure des lois et des hypothèses, déduites d'une base axiomatique donnée|
-
-> _Source : [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)_
