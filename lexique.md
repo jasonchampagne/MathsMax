@@ -2,5 +2,5 @@
 
 |NOM|DÉFINITION|EXEMPLE|
 |:--|:--|:--|
-|**Axiome**|Proposition évidente et non démontrable||
-|**Proposition**|Énoncé qui est soit vrai, soit faux||
+|**Axiome**|Proposition évidente, admise et non démontrée|_Un nombre est égal à lui-même_|
+|**Proposition**|Énoncé qui peut être soit vrai, soit faux|_Le triangle ABC est isocèle_|
