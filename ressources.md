@@ -7,6 +7,7 @@
 ## Sites web
 
 + [BlogDeMaths](https://blogdemaths.wordpress.com/)
++ [Dictionnaire de l'Académie française](https://www.dictionnaire-academie.fr/)
 + [Jean-Yves BAUDOT](http://www.jybaudot.fr/a_general/indexmath.html)
 + [LeLivreScolaire](https://www.lelivrescolaire.fr/)
 + [Lycée Michel-Rodange](http://mathematiques.lmrl.lu/)
