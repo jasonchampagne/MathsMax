@@ -1,6 +1,6 @@
 # Lives sur Twitch
 
->  ❔ [C'est quand le prochain live ?](https://jasonchampagne.fr/planning)
+> C'est quand le prochain live ❔ ([planning](https://jasonchampagne.fr/planning))
 
 + [0. Préparation](https://www.twitch.tv/videos/794257161)
 + [1. L'os d'Ishango](https://www.twitch.tv/videos/801994138)
