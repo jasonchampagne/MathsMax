@@ -1,6 +1,6 @@
 # Lives sur Twitch
 
-> Diffusés le vendredi soir à partir de 21h00 (_pas toutes les semaines, voir [planning](https://jasonchampagne.fr/planning)_)
+>  [C'est quand le prochain live ?](https://jasonchampagne.fr/planning)
 
 + [0. Préparation](https://www.twitch.tv/videos/794257161)
 + [1. L'os d'Ishango](https://www.twitch.tv/videos/801994138)
