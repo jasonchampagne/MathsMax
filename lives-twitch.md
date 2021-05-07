@@ -11,3 +11,4 @@
 + [6. Un plus un ?](https://www.twitch.tv/videos/883999329)
 + [7. De grands mathématiciens](https://www.twitch.tv/videos/929804591)
 + [8. Propriétés opératoires](https://www.twitch.tv/videos/964342669)
++ [9. Relations et propriétés](https://www.twitch.tv/videos/1014751768)
