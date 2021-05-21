@@ -12,3 +12,4 @@
 + [7. De grands mathématiciens](https://www.twitch.tv/videos/929804591)
 + [8. Propriétés opératoires](https://www.twitch.tv/videos/964342669)
 + [9. Relations et propriétés](https://www.twitch.tv/videos/1014751768)
++ [10. Partition d'un ensemble](https://www.twitch.tv/videos/1030669317)
